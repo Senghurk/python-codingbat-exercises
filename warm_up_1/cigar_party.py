@@ -1,2 +1,2 @@
-def cigar_party(cigars, is_weekend):
+# def cigar_party(cigars, is_weekend):
     
